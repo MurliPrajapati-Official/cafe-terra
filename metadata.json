@@ -1,0 +1,6 @@
+{
+  "name": "Metro Grill Restobar Rohini",
+  "description": "Premium luxury hospitality website for Metro Grill Restobar in Rohini. Focuses on celebration destination, sophisticated dining, and editorial design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
