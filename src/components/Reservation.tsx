@@ -24,7 +24,7 @@ export function Reservation() {
               <div className="border-t border-ivory/20 pt-6">
                 <div className="flex justify-between items-start mb-2">
                   <h4 className="text-[10px] font-bold text-accent tracking-[0.2em] uppercase">Location</h4>
-                  <a href="https://www.google.com/maps/search/?api=1&query=Basho's+Pune" target="_blank" rel="noopener noreferrer" className="border-b border-ivory/30 pb-0.5 text-[10px] font-bold tracking-[0.2em] uppercase hover:text-ivory hover:border-ivory transition-colors">Get Directions</a>
+                  <a href="https://www.google.com/maps/place/India's+Pune" target="_blank" rel="noopener noreferrer" className="border-b border-ivory/30 pb-0.5 text-[10px] font-bold tracking-[0.2em] uppercase hover:text-ivory hover:border-ivory transition-colors">Get Directions</a>
                 </div>
                 <p className="text-lg text-ivory/80 font-bold mb-6">GWJ9+39G Near, Eden Villa Dhayarkar Vasti Lane, 2, <br/>tadi Gutta chowk, Koregaon Park Annexe, Mundhwa, Pune 411036</p>
                 <div className="h-48 md:h-64 w-full border border-ivory/20 relative overflow-hidden bg-[#111111] group">
@@ -43,7 +43,7 @@ export function Reservation() {
               
               <div className="border-t border-ivory/20 pt-6 border-b pb-6">
                 <h4 className="text-[10px] font-bold text-accent tracking-[0.2em] uppercase mb-2">Direct Contact</h4>
-                <p className="text-lg text-ivory/80 mb-6 font-bold">+91 80870 02674</p>
+                <p className="text-lg text-ivory/80 mb-6 font-bold">+91 XXXXX XXXXX</p>
                 <div className="flex gap-8">
                   <a href="#" className="border-b border-ivory/30 pb-1 text-[11px] font-bold tracking-[0.2em] uppercase hover:border-ivory transition-colors">Call Now</a>
                   <a href="#" className="border-b border-ivory/30 pb-1 text-[11px] font-bold tracking-[0.2em] uppercase hover:border-ivory transition-colors">WhatsApp</a>
